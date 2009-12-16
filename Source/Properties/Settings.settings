@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ManagedFusion.Build.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="JavaExeLocation" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="YuiCompressorJarLocation" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\development\tools\yuicompressor-2.4.2.jar</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
